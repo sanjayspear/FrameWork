@@ -5,7 +5,6 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 
 public class LoginTestHRMPage {
-	
 	WebDriver driver;
   
 	//This is new commit from sanjay
@@ -13,7 +12,6 @@ public class LoginTestHRMPage {
 		
 		this.driver=ldriver;
 	}
-	
 	@FindBy(xpath="//input[@name='txtUsername']") WebElement uname;
 	
 	@FindBy(xpath="//input[@name='txtPassword']") WebElement pwd;
