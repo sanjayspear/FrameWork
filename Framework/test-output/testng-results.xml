@@ -26,12 +26,12 @@
       <![CDATA[Test Cmpleted >>> Reports Generated ]]>
     </line>
   </reporter-output>
-  <suite name="Suite" duration-ms="14975" started-at="2019-02-06T21:58:20Z" finished-at="2019-02-06T21:58:35Z">
+  <suite name="Suite" duration-ms="30753" started-at="2019-04-01T15:39:46Z" finished-at="2019-04-01T15:40:16Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="14975" started-at="2019-02-06T21:58:20Z" finished-at="2019-02-06T21:58:35Z">
+    <test name="Test" duration-ms="30753" started-at="2019-04-01T15:39:46Z" finished-at="2019-04-01T15:40:16Z">
       <class name="com.learnautomation.testcases.LoginTestHRM">
-        <test-method status="PASS" signature="excelSetUp()[pri:0, instance:com.learnautomation.testcases.LoginTestHRM@4cc0edeb]" name="excelSetUp" is-config="true" duration-ms="696" started-at="2019-02-07T03:28:19Z" finished-at="2019-02-07T03:28:20Z">
+        <test-method status="PASS" signature="excelSetUp()[pri:0, instance:com.learnautomation.testcases.LoginTestHRM@c038203]" name="excelSetUp" is-config="true" duration-ms="4826" started-at="2019-04-01T21:09:41Z" finished-at="2019-04-01T21:09:46Z">
           <reporter-output>
             <line>
               <![CDATA[Setting up reports and test is getting ready]]>
@@ -41,7 +41,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- excelSetUp -->
-        <test-method status="PASS" signature="setup()[pri:0, instance:com.learnautomation.testcases.LoginTestHRM@4cc0edeb]" name="setup" is-config="true" duration-ms="10800" started-at="2019-02-07T03:28:20Z" finished-at="2019-02-07T03:28:31Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.learnautomation.testcases.LoginTestHRM@c038203]" name="setup" is-config="true" duration-ms="23416" started-at="2019-04-01T21:09:46Z" finished-at="2019-04-01T21:10:09Z">
           <reporter-output>
             <line>
               <![CDATA[Trying to start browser and getting application ready]]>
@@ -51,15 +51,15 @@
             </line>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="loginApp()[pri:1, instance:com.learnautomation.testcases.LoginTestHRM@4cc0edeb]" name="loginApp" duration-ms="2783" started-at="2019-02-07T03:28:31Z" finished-at="2019-02-07T03:28:33Z">
+        <test-method status="PASS" signature="loginApp()[pri:1, instance:com.learnautomation.testcases.LoginTestHRM@c038203]" name="loginApp" duration-ms="2852" started-at="2019-04-01T21:10:09Z" finished-at="2019-04-01T21:10:12Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginApp -->
-        <test-method status="PASS" signature="tearDownMethod(org.testng.ITestResult)[pri:0, instance:com.learnautomation.testcases.LoginTestHRM@4cc0edeb]" name="tearDownMethod" is-config="true" duration-ms="296" started-at="2019-02-07T03:28:33Z" finished-at="2019-02-07T03:28:34Z">
+        <test-method status="PASS" signature="tearDownMethod(org.testng.ITestResult)[pri:0, instance:com.learnautomation.testcases.LoginTestHRM@c038203]" name="tearDownMethod" is-config="true" duration-ms="840" started-at="2019-04-01T21:10:12Z" finished-at="2019-04-01T21:10:13Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=loginApp status=SUCCESS method=LoginTestHRM.loginApp()[pri:1, instance:com.learnautomation.testcases.LoginTestHRM@4cc0edeb] output={null}]]]>
+                <![CDATA[[TestResult name=loginApp status=SUCCESS method=LoginTestHRM.loginApp()[pri:1, instance:com.learnautomation.testcases.LoginTestHRM@c038203] output={null}]]]>
               </value>
             </param>
           </params>
@@ -72,15 +72,15 @@
             </line>
           </reporter-output>
         </test-method> <!-- tearDownMethod -->
-        <test-method status="PASS" signature="logutApp()[pri:2, instance:com.learnautomation.testcases.LoginTestHRM@4cc0edeb]" name="logutApp" duration-ms="0" started-at="2019-02-07T03:28:34Z" finished-at="2019-02-07T03:28:34Z">
+        <test-method status="PASS" signature="logutApp()[pri:2, instance:com.learnautomation.testcases.LoginTestHRM@c038203]" name="logutApp" duration-ms="1" started-at="2019-04-01T21:10:13Z" finished-at="2019-04-01T21:10:13Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- logutApp -->
-        <test-method status="PASS" signature="tearDownMethod(org.testng.ITestResult)[pri:0, instance:com.learnautomation.testcases.LoginTestHRM@4cc0edeb]" name="tearDownMethod" is-config="true" duration-ms="82" started-at="2019-02-07T03:28:34Z" finished-at="2019-02-07T03:28:34Z">
+        <test-method status="PASS" signature="tearDownMethod(org.testng.ITestResult)[pri:0, instance:com.learnautomation.testcases.LoginTestHRM@c038203]" name="tearDownMethod" is-config="true" duration-ms="76" started-at="2019-04-01T21:10:13Z" finished-at="2019-04-01T21:10:13Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=logutApp status=SUCCESS method=LoginTestHRM.logutApp()[pri:2, instance:com.learnautomation.testcases.LoginTestHRM@4cc0edeb] output={null}]]]>
+                <![CDATA[[TestResult name=logutApp status=SUCCESS method=LoginTestHRM.logutApp()[pri:2, instance:com.learnautomation.testcases.LoginTestHRM@c038203] output={null}]]]>
               </value>
             </param>
           </params>
@@ -93,7 +93,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- tearDownMethod -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.learnautomation.testcases.LoginTestHRM@4cc0edeb]" name="tearDown" is-config="true" duration-ms="996" started-at="2019-02-07T03:28:34Z" finished-at="2019-02-07T03:28:35Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.learnautomation.testcases.LoginTestHRM@c038203]" name="tearDown" is-config="true" duration-ms="3539" started-at="2019-04-01T21:10:13Z" finished-at="2019-04-01T21:10:16Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
